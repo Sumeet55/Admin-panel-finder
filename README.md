@@ -10,6 +10,8 @@ Open the terminal and type following commands.
 
 1-sudo apt-get install python3
 
-2-Now to run the script you must write : python3 apf.py
+2-git clone https://github.com/SkbRoot/Admin-panel-finder.git
 
-3-Now the script asks you to enter the site ex:- http://www.example.com/ ex 2 : https://www.example.com/
+3-Now to run the script you must write : python3 apf.py
+
+4-Now the script asks you to enter the site ex:- http://www.example.com/ ex 2 : https://www.example.com/
