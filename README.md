@@ -12,6 +12,8 @@ Open the terminal and type following commands.
 
 2-git clone https://github.com/SkbRoot/Admin-panel-finder.git
 
-3-Now to run the script you must write : python3 apf.py
+3-cd Admin-panel-finder
 
-4-Now the script asks you to enter the site ex:- http://www.example.com/ ex 2 : https://www.example.com/
+4-Now to run the script you must write : python3 apf.py
+
+5-Now the script asks you to enter the site ex:- http://www.example.com/ ex 2 : https://www.example.com/
