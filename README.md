@@ -1,8 +1,8 @@
 # Admin-panel-finder
 A Python Script to find admin panel of a site
 
-![Screenshot from 2020-10-18 21-23-177](https://user-images.githubusercontent.com/70707788/96460773-37023d80-1241-11eb-9283-ddc32a5a07f2.png)
-![Screenshot from 2020-10-18 21-24-007](https://user-images.githubusercontent.com/70707788/96460900-5b5e1a00-1241-11eb-889a-a2e322b54fde.png)
+![Screenshot from 2021-06-05 22-30-48](https://user-images.githubusercontent.com/70707788/120897499-207beb80-c644-11eb-9506-a3d07ce6d4f8.png)
+![Screenshot from 2021-06-05 22-31-57](https://user-images.githubusercontent.com/70707788/120897520-41dcd780-c644-11eb-97b4-edf3a1fcb833.png)
 
 # How To Use ?
 
