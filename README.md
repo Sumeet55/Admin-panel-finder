@@ -10,7 +10,7 @@ Open the terminal and type following commands.
 
 1-sudo apt-get install python3
 
-2-git clone https://github.com/SkbRoot/Admin-panel-finder.git
+2-git clone https://github.com/Sumeet55/Admin-panel-finder.git
 
 3-cd Admin-panel-finder
 
