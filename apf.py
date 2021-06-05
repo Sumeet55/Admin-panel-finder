@@ -10,9 +10,9 @@ print('''
 +====================================+
 |.........ADMIN PANEL FINDER.........|
 +------------------------------------|
-|#Author: SKBROOT                    |
-|#Date  : 18/10/2020                 |
-|#Contact: @5kbr00t                  |
+|#Author: Sumeet                     | 
+|#Date  : 05/04/2021                 |
+|#Contact: @sumeet                   |
 |#This Tool is Create For Pentesting |
 +====================================+
 |.........ADMIN PANEL FINDER.........|
